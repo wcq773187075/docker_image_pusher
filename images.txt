@@ -1,2 +1,1 @@
-langgenius/dify-api:0.6.15
-langgenius/dify-sandbox:0.2.1
+1panel/maxkb
