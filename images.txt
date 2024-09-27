@@ -1,1 +1,1 @@
-breezedeus/cnocr:latest
+breezedeus/cnocr
